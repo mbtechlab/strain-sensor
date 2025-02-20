@@ -17,3 +17,24 @@ __Cost-Effective Fabrication:__ The sensor is fabricated using electroless nicke
 
 __Real-Time Monitoring and Wearable Compatibility:__ The sensor is designed to be integrated into wearable devices, such as wristbands, arm cuffs, or chest straps, making it ideal for health monitoring, rehabilitation, sports tracking, and human-machine interface applications.
 
+## Description of  files
+### Compare.jpg
+The X-ray diffraction (XRD) is confirmed the crystalline structure of materials befor and after Kapton metallization film.
+
+### Wearable_applications.xlsx
+The wearable strain sensor reliably detects and monitors various body movements, including wrist, elbow, abdomen, and finger motions, with stable performance.
+
+### Response_time.xlsb
+The sensor exhibits a fast transient response with 200 ms response and 110 ms relaxation delays tested under 15% strain, enabling stable and high-bandwidth detection of dynamic motions.
+
+### Temperature_and_humidity.xlsx
+The sensor exhibits temperature stability when embedded in elastomer due to inelastic scattering and lattice expansion and maintains conductivity under varying humidity when embedded in elastomer, ensuring reliability for real-world applications.
+
+### Fatigue.xlsx
+The sensor withstands 2250 cycles under 40% strain with a gradual resistance increase due to microcrack propagation, while maintaining stable performance. SEM and XRD analyses confirm a uniform Ni-P structure, with the cauliflower-like morphology enhancing durability and sensitivity.
+
+### Multicycle_transient_response.xlsb
+The strain sensor demonstrates a periodic response at 10% and 35% consecutive strain levels, showing precise monitoring with type of motions.
+
+### Gauge_Factor.xlsx
+The gauge factor (GF) is calculated as the ratio of the relative change of resistance (ΔR/R0) to strain (ɛ). The resistance increases from 218 Ω to 418 Ω at 120% strain. 
