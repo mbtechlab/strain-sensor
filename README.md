@@ -2,6 +2,9 @@
 
 ## doi: xxx
 
+## Images
+
+![This is an alt text.](https://github.com/user-attachments/assets/da837441-47f4-4276-ac47-d5989458bec0 "This is a sample image.")
 
 ## Overview
 _*Wearable strain sensors have garnered considerable attention due to their potential applications in tracking human activities. Despite recent developments, challenges remain in terms of achieving high stretchability, rapid response/recovery times, and most significantly mechanical stability. Furthermore, the ease of fabrication and cost-effectiveness of these sensors are important to facilitate large-scale adoption in various industries. Addressing these challenges will enable more accurate and reliable tracking for numerous applications. In this study, we have developed a highly mechanically reliable and stretchable crack-based resistive strain sensor by metallizing a Kapton polyimide (PI).  Ni as the sensing material, is deposited using electroless plating in a Ni-P bath and patterned in serpentine shape before being embedded in silicone rubber (SR). The fabricated sensor exhibits a gauge factor of up to 0.92, stretchability over 120%, and mechanical stability of 2250 cycles at 40% strain. The response and relaxation delays of 200 ms and 110 ms, respectively, enable the sensor to detect sudden changes. As a proof of principle, the sensor is attached to the wrist, arm and abdomen, to monitor their corresponding motions. The sensor's performance in these applications highlights its potential, applicable in healthcare and rehabilitation, sports tracking and human-machine interface (HMI) applications.*_
@@ -53,7 +56,7 @@ Overview of conventional metallic strain sensors and their limitations in terms 
 
 **Structural and Electrical Characterization:** Analysis of the sensor’s morphology using SEM and XRD, and electrical performance based on resistance changes during strain.
 
-**Mechanical Performance:** Presentation of stress-strain data, including stretchability, gauge factor (GF), and cyclic fatigue performance.
+**Mechanical Performance:** Presentation of stress-strain data, including stretchability, gauge factor (GF), multicycle transient response of the strain sensor under 10% and 35% strain and Fatigue cycling test of the strain sensor under 40% strain.
 
 **Response and Relaxation Times:** Evaluation of the sensor's ability to detect sudden changes in strain, including response/recovery delays.
 
@@ -73,29 +76,3 @@ Summary of findings and future work.
 
 ## Software Setup for Electrical and Mechanical Characterization of the sensor
 Microcontroller programming(  Arduino) and transmitting the data to our visualization system (origin )
-
-
-### Wearable applications
-TBW
-
-### Cycle mechanical test
-TBW
-
-### Relative change of the resistance of the sensor with respect to humidity and  temperature
-TBW
-
-### Relative change of resistance during strain
-TBW
-
-### Fatigue cycling test of the strain sensor under 40% strain
-TBW
-
-### Response time for 15% strain
-TBW
-
-### Multicycle transient response of the strain sensor under 10% and 35% strain
-TBW
-
-### compare_1
-TBW
-
